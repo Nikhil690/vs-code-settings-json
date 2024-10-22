@@ -1,0 +1,109 @@
+{
+    "editor.mouseWheelZoom": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1,
+    "files.refactoring.autoSave": false,
+    "workbench.colorTheme": "Best Themes - Ayu Darkvenom",
+    "workbench.iconTheme": "Monokai Pro Icons",
+    "vscode-edge-devtools.webhint": false,
+    "CodeGPT.model": "code-davinci-002",
+    "CodeGPT.query.language": "English",
+    "[python]": {
+      "editor.formatOnType": true
+    },
+    "C_Cpp.errorSquiggles": "enabled",
+    "code-runner.runInTerminal": true,
+    "makefile.makefilePath": "D:\\vs code\\projects\\makefile\\Makefile",
+    "makefile.makePath": "Makefile",
+    "cmake.configureOnOpen": true,
+    "workbench.startupEditor": "none",
+    "lldb.suppressUpdateNotifications": true,
+    "C_Cpp_Runner.cppStandard": "gnu++23",
+    "explorer.confirmDelete": false,
+    "[dart]": {
+      "editor.formatOnSave": true,
+      "editor.formatOnType": true,
+      "editor.rulers": [80],
+      "editor.selectionHighlight": false,
+      "editor.suggestSelection": "first",
+      "editor.tabCompletion": "onlySnippets",
+      "editor.wordBasedSuggestions": "off"
+    },
+    "redhat.telemetry.enabled": true,
+    "git.openRepositoryInParentFolders": "never",
+    "window.titleBarStyle": "custom",
+    "vscode_vibrancy.opacity": -1,
+    "remote.SSH.remotePlatform": {
+      "192.168.4.232": "linux",
+      "192.168.5.210": "linux",
+      "192.168.5.216": "linux",
+      "192.168.0.121": "linux",
+      "192.168.0.135": "linux",
+      "192.168.5.220": "linux",
+      "192.168.5.234": "linux",
+      "192.168.5.50": "linux",
+      "192.168.5.54": "linux",
+      "192.168.5.218": "linux",
+      "192.168.5.219": "linux",
+      "192.168.5.231": "linux",
+      "192.168.0.144": "linux",
+      "192.168.5.217": "linux",
+      "192.168.0.149": "linux",
+      "192.168.5.225": "linux",
+      "192.168.5.246": "linux",
+      "192.168.5.245": "linux",
+      "192.168.5.223": "linux",
+      "192.168.5.242": "linux",
+      "192.168.5.251": "linux",
+      "192.168.4.200": "linux",
+      "192.168.4.202": "linux",
+      "192.168.4.204": "linux",
+      "192.168.4.245": "linux",
+      "192.168.5.221": "linux",
+      "192.168.6.69": "linux",
+      "192.168.5.206": "linux",
+      "192.168.4.69": "linux",
+      "192.168.4.20": "linux"
+    },
+    "go.toolsManagement.autoUpdate": true,
+    "git.confirmSync": false,
+    "cmake.showOptionsMovedNotification": false,
+    "git.autofetch": true,
+    "window.confirmSaveUntitledWorkspace": false,
+    "git.enableSmartCommit": true,
+    "[c]": {
+      "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[go]": {
+      "editor.defaultFormatter": "golang.go"
+    },
+    "[cpp]": {
+      "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "chatgpt.lang": "en",
+    "chatgpt.model": "gpt-3.5-turbo-16k-0613",
+    "chatgpt.temperature": 0.5,
+    "cmake.pinnedCommands": [
+      "workbench.action.tasks.configureTaskRunner",
+      "workbench.action.tasks.runTask"
+    ],
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    "workbench.sideBar.location": "right",
+    "remoteHub.commitDirectlyWarning": "off",
+    "[dockerfile]": {
+      "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+    },
+    "editor.minimap.enabled": false,
+    "gitlens.views.branches.files.layout": "tree",
+    "window.customTitleBarVisibility": "auto",
+    "[yaml]": {
+      "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "githubPullRequests.pullBranch": "never",
+    "workbench.settings.applyToAllProfiles": [
+    
+      
+    ]
+  }
